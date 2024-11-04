@@ -1,0 +1,11 @@
+Name|Age|Major
+Alice|20|Biology
+Bob|21|Chemistry
+Charlie|22|Physics
+David|23|Mathematics
+Eva|20|Computer Science
+Frank|22|Engineering
+Grace|21|Literature
+Hannah|24|History
+Isaac|23|Art
+Jasmine|22|Business
